@@ -28,7 +28,6 @@ Most are internal or external parasites of the immature stages of moths, butterf
 Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of resilin. When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above).
 
 <img src="https://sfg.taxonworks.org/s/wwhh4x" alt="jumping mechanism" width="100%"/>
-##### Jumping mechanism
 
 ## Economic Importance
 
@@ -36,6 +35,7 @@ Species of Eupelmidae have been used as biological control agents of agricultura
 
 <img src="https://sfg.taxonworks.org/s/3lw8pz" alt="_Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) caterpillars feeding on leaves, (I) defoliated forest" width="100%"/>
 ##### _Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) Larvae eating all the leaves off trees, (I) Defoliated forest 
+
 
 ## Links
 
